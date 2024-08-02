@@ -1,2 +1,2 @@
 # PredEnvML
-Algoritmo de Predição de Evasão de Alunos 
+Algoritmo de predição de evasão de alunos utilizando técnicas de machine learning
